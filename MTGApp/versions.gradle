@@ -1,0 +1,7 @@
+ext {
+    koin = "2.2.2"
+    kotlin_version = "1.4.21"
+    moshi = "1.11.0"
+    coroutines = "1.3.9"
+    md = "1.3.0"
+}
